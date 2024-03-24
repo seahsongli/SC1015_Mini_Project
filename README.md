@@ -1,8 +1,8 @@
-# SC1015_Mini_Project - Formula 1 Top 3 Predictor
+# SC1015_Mini_Project - Formula 1 Top 3 Predictor for Qualifying Races
 ---
 
 ## Overview
-This project aims to develop a predictive model for identifying the top 3 drivers in Formula 1 races. Leveraging machine learning techniques and data analysis, we explore patterns and trends in historical Formula 1 data to predict the top performers in upcoming races.
+This project aims to develop a predictive model for identifying the top 3 drivers in Formula 1 races. Leveraging machine learning techniques and data analysis, we explore patterns and trends in historical Formula 1 data to predict the top performers in qualifying races.
 
 ## Features
 - Data preprocessing to handle missing values and encode categorical features.
