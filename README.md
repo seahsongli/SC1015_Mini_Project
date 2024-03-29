@@ -13,7 +13,7 @@ This project aims to develop a predictive model for identifying the top 3 driver
 
 ## Installation
 To run this project locally, follow these steps:
-1. Clone the repository: `--git clone git@github.com:seahsongli/SC1015_Mini_Project.git`
+1. Clone the repository: `git clone git@github.com:seahsongli/SC1015_Mini_Project.git`
 2. Navigate to the project directory: `cd SC1015_Mini_Project`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
