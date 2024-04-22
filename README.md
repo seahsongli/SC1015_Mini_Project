@@ -38,8 +38,8 @@ To run this project locally, follow these steps:
 
 
 ## Project Structure
-- **Race_Results && Season_Calenders**: Contains the dataset(s) used for training and testing the model.
-- **Formula1_Top3_Predictor.ipynb/**: Jupyter Notebooks with code for data preprocessing, EDA, and model training. Also contains outputs and results from model evaluations.
+- **Race_Results & Season_Calenders**: Contains the dataset(s) used for training and testing the model.
+- **Formula1_Top3_Predictor.ipynb**: Jupyter Notebooks with code for data preprocessing, EDA, and model training. Also contains outputs and results from model evaluations.
 
 
 ## Contributing
